@@ -1,4 +1,4 @@
-# How-to-Install-Hardhat-NFT-Tutorial
+How to Install Hardhat | NFT Tutorial
 
 https://youtu.be/2TT2DtJ_SUk 
  
